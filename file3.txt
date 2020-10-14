@@ -2,3 +2,4 @@ zig hy
 nigga
 blackface
 borderlands
+trigger
